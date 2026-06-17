@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Ayorinde Ojo 👋
 
-<!--
-**ayorindeojo/ayorindeojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Biotechnology Graduate Student | Bioinformatics | GMP Manufacturing Professional
 
-Here are some ideas to get you started:
+I am currently pursuing a Master of Science in Biotechnology with a concentration in Bioinformatics at the University of Maryland Global Campus (UMGC).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background includes over 7 years of experience in GMP-regulated manufacturing environments, supporting quality systems, deviation investigations, CAPA implementation, and continuous improvement initiatives.
+
+I am expanding my expertise in bioinformatics, genomics, biological data analysis, and Linux-based computational workflows.
+
+### Areas of Interest
+
+* Bioinformatics
+* Genomics
+* Genome Assembly & Annotation
+* RNA-Seq Analysis
+* Quality Assurance & Compliance
+* Biotechnology Manufacturing
+* Data Analysis
+
+### Technical Skills
+
+* Python
+* Linux / Ubuntu
+* Bash Scripting
+* BLAST
+* MUSCLE
+* Clustal Omega
+* SPAdes
+* QUAST
+* Prodigal
+* Git & GitHub
+
+### Current Projects
+
+* Bacterial Genome Assembly & Annotation
+* Comparative Gene Prediction Analysis
+* RNA-Seq Data Analysis
+* Linux Bioinformatics Workflows
+
+### Education
+
+M.S. Biotechnology (Bioinformatics Concentration)
+University of Maryland Global Campus (Expected 2026)
+
+B.S. Zoology
+University of Ilorin, Nigeria
+
+### Connect With Me
+
+Email: [ayorinde.ojo07@gmail.com](mailto:ayorinde.ojo07@gmail.com)
+
+GitHub: github.com/ayorindeojo
